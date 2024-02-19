@@ -1,6 +1,6 @@
 <h1 align="center">Hi peeps, I'm Aravindh 👋🏻</h1>
 <h3 align="center">A passionate software developer from Chennai, India.</h3>
-<p>I am a software developer with almost 2 years of experience. My technology stack involves Scala, Akka, Maven, Javascript, AngularJS, MySQL, Python, HTML/CSS/Bootstrap and AWS. I play chess, read books and watch movies/tv shows in my free time!</p>
+<p>I am a software developer with over 2 years of experience. My technology stack involves Scala, Akka, Maven, Javascript, AngularJS, MySQL, Python, HTML/CSS/Bootstrap and AWS. I play chess, read books and watch movies/tv shows in my free time!</p>
 
 <h3 align="center">Github stats:</h3>
 <div>
